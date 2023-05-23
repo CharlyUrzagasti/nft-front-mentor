@@ -132,39 +132,39 @@ cursor: pointer;
     padding: 10px 0;
     
 }
-.iconos2{
+.eth{
     display: flex;
     align-items: center;
  }
-.iconos4{
+.days{
     display: flex;
     align-items: center;   
     
 }
-.iconos4 p{
+.days p{
     margin-left: 7px;  
 }
-.iconos2 p{
+.eth p{
     color:var(--Cyan);
     font-weight: 400;
     margin-left: 7px;
 }
 
-.iconos3 img{
+.autor img{
     
     width: 30px;
     margin-right: 20px;
     border-radius: 50%;
     border: 2px solid #fff;
 } 
-.iconos3{
+.autor{
     display: flex;
     align-items: center;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
  }
- .iconos3 p{
+ .autor p{
     text-align: center;
     font-size: 1em;
     color: #fff;
@@ -172,11 +172,11 @@ cursor: pointer;
     
  } 
 
-.iconos3 a{
+.autor a{
     color:#fff;
     font-size: 18px;
 }
-.iconos3 p  a:hover{
+.autor p  a:hover{
     color:var(--Cyan);
     cursor: pointer;
 }
